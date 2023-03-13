@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: springapp
-        image: obinnaaliogor/spring-boot-mongo:23
+        image: obinnaaliogor/spring-boot-mongo:25
         resources:
           requests:
             cpu: "20m"
